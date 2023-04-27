@@ -34,4 +34,9 @@ The application should now be accessible at `http://localhost:8000`.
 - Personalized to-do list
 - Create new tasks ,Edit tasks , View tasks , Delete tasks
 
+## Usage
+Once the application is running, users can navigate to the homepage to view their to-do list. From there, they can create new tasks, mark tasks as complete, edit existing tasks, and delete tasks.
+
+## License
+The To-Do-List web aplication is licensed under the MIT License. See [MIT](https://choosealicense.com/licenses/mit/) For More information.
 
